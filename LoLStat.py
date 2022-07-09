@@ -4,7 +4,7 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 
 driver = webdriver.Chrome()
-TOKEN = 'OTg2Njc3NzQzNzQxNzAyMjI0.GLFGXu.ZLoSJaIl5FG8vyvIwqnepZxhMHOMAiGJ4ELdxQ'
+TOKEN = '****YOUR TOKEN HERE****'
 
 client = discord.Client()
 
